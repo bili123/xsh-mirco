@@ -5,7 +5,7 @@
 #?   Swaps the letters X and U in STRING.
 #?
 #? Example:
-#?   @xforu Buxtehude
+#?   @xforu Buxtehudetrude
 #?   # Bxutehxde
 #?
 function xforu () {
